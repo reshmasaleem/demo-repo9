@@ -1,0 +1,20 @@
+.container1 .box1 {
+    position: relative;
+    width: calc(400px - 30px);
+    height: calc(700px - 30px);
+    background-color: #000;
+    float: left;
+    margin: 15px;
+}
+      
+.container2 .box2{
+    position: relative;
+    width: calc(150px - 30px);
+    height: calc(700px - 30px);
+    background-color: #000;
+    float: left;
+    margin: 15px;
+}
+
+
+
